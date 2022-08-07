@@ -1,5 +1,5 @@
 {
-    "name": "rocketslab/wa-laravel",
+    "name": "gabrieljaime/wa-laravel",
     "description": "Wrapper for Laravel to use WhatsApp Baileys Api",
     "type": "library",
     "license": "MIT",
